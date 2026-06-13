@@ -30,29 +30,23 @@ This project focuses on the design and simulation of XOR, TSPC, and MUX-based hy
 ## Circuit Schematics
 
 ### XOR Phase Detector
-
 ![XOR Phase Detector](images/XOR%20Phase%20Detector.jpeg)
 
 ### TSPC Phase Detector
-
 ![TSPC Phase Detector](images/TSPC%20Phase%20Detector%20Symbol.jpeg)
 
 ### Hybrid Phase Detector
-
 ![Hybrid Phase Detector](images/Hybrid%20Phase%20Detector.jpeg)
 
 ### D Flip-Flop
-
 ![D Flip-Flop](images/D%20flip%20flop.jpeg)
 
 ## Simulation Results
 
 ### Result 1
-
 ![Result](images/Result.jpeg)
 
 ### Result 2
-
 ![Results](images/Results.jpeg)
 
 ## Results and Analysis
