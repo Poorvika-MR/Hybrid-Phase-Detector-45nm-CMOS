@@ -1,46 +1,76 @@
 # Design and Simulation of XOR, TSPC, and MUX-Based Hybrid Phase Detectors in 45nm CMOS
 
-## Project Overview
+## Overview
 
-This project presents the design and simulation of XOR, TSPC, and MUX-based hybrid phase detector architectures for Phase-Locked Loop (PLL) applications using 45nm CMOS technology.
+This project focuses on the design and simulation of XOR, TSPC, and MUX-based hybrid phase detectors for Phase-Locked Loop (PLL) applications using 45nm CMOS technology. The proposed architecture combines the advantages of XOR and TSPC logic to achieve accurate full-range phase detection while maintaining low power consumption and high reliability.
 
-## Objectives
+## Key Features
 
-* Design XOR-based phase detector architecture.
-* Design TSPC-based phase detector architecture.
-* Develop a MUX-based hybrid phase detector.
-* Achieve full-range phase detection (0°–360°).
-* Evaluate power consumption and locking behavior.
+* XOR-based phase detector design
+* TSPC-based phase detector implementation
+* MUX-based hybrid phase detector architecture
+* Full-range phase detection (0°–360°)
+* Power and performance analysis
+* Improved reliability and scalability for PLL systems
 
-## Tools Used
+## Tools and Technology
 
 * Cadence Virtuoso
 * Spectre Simulator
 * 45nm CMOS Technology
 
-## Methodology
+## Design Flow
 
-1. Designed XOR phase detector circuits.
-2. Implemented TSPC phase detector architecture.
-3. Integrated XOR and TSPC logic for full-range phase detection.
-4. Proposed a MUX-based hybrid architecture.
-5. Simulated and analyzed performance metrics.
+1. Design and simulation of XOR Phase Detector
+2. Design and simulation of TSPC Phase Detector
+3. Integration of XOR and TSPC architectures
+4. Development of MUX-based Hybrid Phase Detector
+5. Performance evaluation and comparison
 
-## Results
+## Circuit Schematics
 
-* Achieved phase detection across the complete 0°–360° range.
-* Improved phase detection accuracy.
-* Evaluated power consumption and locking characteristics.
-* Demonstrated scalability for modern PLL applications.
+### XOR Phase Detector
+
+![XOR Phase Detector](images/XOR%20Phase%20Detector.jpeg)
+
+### TSPC Phase Detector
+
+![TSPC Phase Detector](images/TSPC%20Phase%20Detector%20Symbol.jpeg)
+
+### Hybrid Phase Detector
+
+![Hybrid Phase Detector](images/Hybrid%20Phase%20Detector.jpeg)
+
+### D Flip-Flop
+
+![D Flip-Flop](images/D%20flip%20flop.jpeg)
+
+## Simulation Results
+
+### Result 1
+
+![Result](images/Result.jpeg)
+
+### Result 2
+
+![Results](images/Results.jpeg)
+
+## Results and Analysis
+
+* Achieved complete phase detection over a 0°–360° range.
+* Evaluated locking behavior under varying phase differences.
+* Analyzed power consumption and phase detection accuracy.
+* Demonstrated improved performance using the proposed hybrid architecture.
 
 ## Applications
 
 * Phase-Locked Loops (PLLs)
 * Frequency Synthesizers
-* Clock and Data Recovery Systems
-* High-Speed Communication Circuits
+* Clock and Data Recovery (CDR)
+* Communication Systems
+* High-Speed Digital Circuits
 
 ## Author
 
-Poorvika M R
+**Poorvika M R**
 Electronics and Communication Engineering
