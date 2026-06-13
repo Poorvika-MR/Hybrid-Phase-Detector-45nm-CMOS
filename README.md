@@ -62,6 +62,11 @@ This project focuses on the design and simulation of XOR, TSPC, and MUX-based hy
 * Communication Systems
 * High-Speed Digital Circuits
 
+## Documentation
+
+📄 Research Paper: [Hybrid-Phase-Detector-45nm-CMOS_paper.pdf](Hybrid-Phase-Detector-45nm-CMOS_paper.pdf)
+
+
 ## Author
 
 **Poorvika M R**
